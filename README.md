@@ -1,6 +1,6 @@
 <h2>Hi!  I’m Matias, thanks for visiting my profile!</h2> 
  
-<h4>I’m a Front-End developer from Argentina :bowtie:. I started my journey in the IT world in the beggining of 2021 :computer: </h4>
+<h4>I’m a Front-End developer from Argentina :bowtie:. I started my journey in the IT world since the beggining of 2021 :computer: </h4>
 <hr>
 
 <h3>:star: These are some of the technologies i work with:</h3>
