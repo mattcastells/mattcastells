@@ -24,6 +24,6 @@
 
 <h3>:email: How to reach me:</h3>
 
-![gmail-icon](https://user-images.githubusercontent.com/86881223/142699923-5a3b5262-5686-45bd-82c4-0f65deebd9de.png)
+<a href="mailto:gulincastellsmatias@gmal.com">![gmail-icon](https://user-images.githubusercontent.com/86881223/142699923-5a3b5262-5686-45bd-82c4-0f65deebd9de.png)</a>
 <a href='https://www.linkedin.com/in/matias-gulin-65b411191/'>![linkedin-icon](https://user-images.githubusercontent.com/86881223/142699925-d79d12b0-61e7-4d05-b543-cd8577324cb4.png)</a>
-![github-icon](https://user-images.githubusercontent.com/86881223/142699926-965a51f2-f7a9-4e0e-8c7e-56c3e6de6b24.png)
+<a href='https://github.com/mattcastells'> ![github-icon](https://user-images.githubusercontent.com/86881223/142699926-965a51f2-f7a9-4e0e-8c7e-56c3e6de6b24.png)</a>
