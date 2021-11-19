@@ -1,6 +1,6 @@
 <h2>Hi!  I’m Matias, thanks for visiting my profile!</h2> 
  
-<h4>I’m a Front-End developer from Argentina :bowtie: </h4>
+<h4>I’m a Front-End developer from Argentina :bowtie:. I started my journey in the IT world in the beggining of 2021 :computer: </h4>
 <hr>
 
 <h3>:star: These are some of the technologies i work with:</h3>
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3>:blue_book: I'm currently learning:</h3>
+<h3>:blue_book: I'm currently learning MERN Stack!</h3>
 
 ![mongodb](https://user-images.githubusercontent.com/86881223/142698488-c646f803-702f-47a0-832f-f06b556519df.png)
 ![expresss](https://user-images.githubusercontent.com/86881223/142698894-9b0ac75a-8ebd-464b-86d9-2b7795804d9d.png)
